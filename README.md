@@ -51,31 +51,30 @@ Key highlights:
 
 ---
 
-
 ## 🎥 Video Examples
 
  <table>
      <tbody>
          <tr>
              <td>
-                 <video src=" " controls preload>
+                 <video src="https://github.com/user-attachments/assets/e1b2a627-a427-482e-b6be-49d849ff99ca" controls preload>
                      Your browser does not support the video tag.
                  </video>
              </td>
              <td>
-                 <video src=" " controls preload>
+                 <video src="https://github.com/user-attachments/assets/1d477b02-7a8d-47bb-addf-a1b6506a44b2" controls preload>
                      Your browser does not support the video tag.
                  </video>
              </td>
          </tr>
          <tr>
              <td>
-                 <video src=" " controls preload>
+                 <video src="https://github.com/user-attachments/assets/45bf5616-c25e-40cf-9d36-f05329604ea8" controls preload>
                      Your browser does not support the video tag.
                  </video>
              </td>
              <td>
-                 <video src=" " controls preload>
+                 <video src="https://github.com/user-attachments/assets/5656523d-1960-4535-9b9f-1c90998f22bb" controls preload>
                      Your browser does not support the video tag.
                  </video>
              </td>
